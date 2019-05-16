@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "james unity playground",
+"dataUrl": "2f74f65e9e1cbd2d0c19f6bfc7cd148e.unityweb",
+"wasmCodeUrl": "5d7fd0f2ee1a9b97d25ed44054b625f5.unityweb",
+"wasmFrameworkUrl": "f1f7cbe3e01b6f65c5e81b8cce99e32f.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
